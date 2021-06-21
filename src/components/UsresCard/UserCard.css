@@ -1,0 +1,9 @@
+.mb-2 {
+  width: 15rem;
+  height: 220px;
+  background:#92a8d1;
+  color:#454140;
+  margin: 3% 3%;
+  border-radius: 15px;
+  padding: 20px;
+}
